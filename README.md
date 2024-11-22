@@ -56,6 +56,15 @@ AI-Powered Virtual Interviewer is an application designed to conduct mock interv
    streamlit run main.py
    ```
 
+![img 1](https://github.com/user-attachments/assets/cf4c631e-f72b-408b-87be-bdc04ece134c)
+
+![img 2](https://github.com/user-attachments/assets/8ad50f49-233d-455f-9a19-d60a88bf2831)
+
+![3](https://github.com/user-attachments/assets/7aa08144-3c73-4cef-924e-e7b82b679c26)
+
+![4](https://github.com/user-attachments/assets/3804eb76-dd07-4cf0-9f47-a041f79b4540)
+
+
 ---
 
 ## **Project Structure**
@@ -97,6 +106,3 @@ virtual_interviewer/
 - Improve scoring metrics with advanced LLM models.
 - Implement a progress tracker for long-term user improvement.
 - Add gamification elements like badges and rankings.
-
----
-

@@ -79,7 +79,7 @@ virtual_interviewer/
 ├── main.py              # Entry point for the application
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
-└── .env                 # Environment variables (not included in the repo)
+└── .env                 # Environment variables
 ```
 
 ---

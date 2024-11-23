@@ -1,6 +1,4 @@
-# from langchain import ChatOpenAI
 from langchain.chat_models import ChatOpenAI
-
 
 class LLM:
     def __init__(self):

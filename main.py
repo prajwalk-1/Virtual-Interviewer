@@ -1,3 +1,4 @@
+import numpy as np
 import streamlit as st
 from app.utils import transcribe_voice, evaluate_answer
 from app.feedback import generate_feedback
